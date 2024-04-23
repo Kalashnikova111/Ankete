@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Ankete\Ankete\bin\Debug\Ankete.exe.config
+C:\Users\user\source\repos\Ankete\Ankete\bin\Debug\Ankete.exe
+C:\Users\user\source\repos\Ankete\Ankete\bin\Debug\Ankete.pdb
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.Form1.resources
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.Properties.Resources.resources
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.exe
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.pdb
+C:\Users\user\source\repos\Ankete\Ankete\bin\Debug\Ankete.exe.manifest
+C:\Users\user\source\repos\Ankete\Ankete\bin\Debug\Ankete.application
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.TrustInfo.xml
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.exe.manifest
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.application
+C:\Users\user\source\repos\Ankete\Ankete\obj\Debug\Ankete.Form2.resources
